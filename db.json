@@ -9,15 +9,6 @@
 				"compound_id": "8415",
 				"franchise": "Endocrinology"
             },
-            {			
-				"project_code": "M0046736",
-				"project_desc": "8415-IISP 58585-Ribeiro:  How do different ovarian stimulation protocols affect endometrial receptivity during a fresh IVF/ICSI attempt? -Contraception-SC-imp-LCE, IISP and Epi Studies - All Brand Support-ROW-BSM",
-				"short_desc": "8415-IISP 58585-Ribeiro:  How do different ovarian stimulation protocols affect endometrial receptivity during a fresh IVF/ICSI attempt? -Contraception-SC-imp-LCE, IISP and Epi Studies - All Brand Support-ROW-BSM",
-				"indication": "Contraception",
-				"biological_target": "ER",
-				"compound_id": "8415",
-				"franchise": "Endocrinology"
-            },
             {
 				"project_code": "M0045639",
 				"project_desc": "8328-IISP 57664-Mathieu d’Argent: Feasability and efficacy of new stimulation regimen with RANDom start, use of corifollitropin alpha and progestin protocols, for Oocyte donorS-Controlled ovarian stimulation-SC-sol-LCE, IISP and Epi Studies - All Brand Support-ROW-BSM",
@@ -108,15 +99,7 @@
 				"compound_id": "null",
 				"franchise": "Cardiovascular"
             },
-            {
-				"project_code": "M0045142",
-				"project_desc": "GUCY1-activator-GUCY1-stimulation-Inhaled-1-LOpt",
-				"short_desc": "GUCY1-activator-GUCY1-stimulation-Inhaled-1-LOpt",
-				"indication": "null",
-				"biological_target": "GUCY1",
-				"compound_id": "null",
-				"franchise": "Cardiovascular"
-            },
+
             {
 				"project_code": "M0022977",
 				"project_desc": "8328-8328-073-A randomized, controlled, prospective study of oocyte donors comparing the safety of triggering ovulation using a combination of two drugs--GnRH agonist and very low dose hCG--versus triggering ovulation with a standard hCG dose alone-Controlled ovarian stimulation-SC-sol-LCE, IISP and Epi Studies - All Brand Support-ROW-BSM",
@@ -128,7 +111,7 @@
             }
 			],
 			"paging": {
-			"total": 14	
+			"total": 12	
 			}
 			
 }
